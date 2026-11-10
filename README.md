@@ -40,6 +40,20 @@ If you generate maps, please open a pull request to add them here!
 
 ![](/maps/does-censorship-exist-in-country_x-ai--grok-4.7.svg)
 
+![](/maps/does-censorship-exist-in-country_zai-glm-5-3-flash.svg)
+
+![](/maps/does-censorship-exist-in-country_mistral-large-4.svg)
+
+![](/maps/does-censorship-exist-in-country_deepseek-v4-1-flash-1017.svg)
+
+![](/maps/does-censorship-exist-in-country_claude-cli--claude-haiku-5-5.svg)
+
+![](/maps/does-censorship-exist-in-country_claude-cli--claude-sonnet-5-5.svg)
+
+![](/maps/does-censorship-exist-in-country_claude-cli--claude-opus-5-5.svg)
+
+![](/maps/does-censorship-exist-in-country_codex-cli--gpt-6-luna.svg)
+
 
 ## License
 
